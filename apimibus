@@ -1,0 +1,52 @@
+[
+  {
+    "id": "T110",
+    "name": "Albrook - Vía España - San Miguelito",
+    "schedule": "5:00 AM - 10:00 PM"
+  },
+  {
+    "id": "K100",
+    "name": "Albrook - Tocumen - 24 de Diciembre",
+    "schedule": "5:30 AM - 11:00 PM"
+  },
+  {
+    "id": "M100",
+    "name": "Albrook - Ciudad del Saber - Howard",
+    "schedule": "6:00 AM - 9:00 PM"
+  },
+  {
+    "id": "C100",
+    "name": "Albrook - Clayton - Veracruz",
+    "schedule": "5:00 AM - 10:30 PM"
+  },
+  {
+    "id": "V100",
+    "name": "Albrook - Villa Lucre - Pedregal",
+    "schedule": "5:15 AM - 10:00 PM"
+  },
+  {
+    "id": "S100",
+    "name": "San Miguelito - Vía Argentina - Vía Brasil",
+    "schedule": "5:00 AM - 11:00 PM"
+  },
+  {
+    "id": "P100",
+    "name": "Panamá Viejo - Costa del Este - Brisas del Golf",
+    "schedule": "6:00 AM - 9:30 PM"
+  },
+  {
+    "id": "L100",
+    "name": "Las Cumbres - Cerro Viento - Albrook",
+    "schedule": "5:00 AM - 10:00 PM"
+  },
+  {
+    "id": "B100",
+    "name": "Bella Vista - Calidonia - Curundú",
+    "schedule": "5:30 AM - 10:30 PM"
+  },
+  {
+    "id": "R100",
+    "name": "Río Abajo - Juan Díaz - Parque Lefevre",
+    "schedule": "5:00 AM - 9:00 PM"
+  }
+]
