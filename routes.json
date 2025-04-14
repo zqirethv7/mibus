@@ -1,52 +1,79 @@
 [
-  {
-    "codigo": "T110",
-    "ruta": "Albrook - Vía España - San Miguelito",
-    "horario": "5:00 AM - 10:00 PM"
-  },
-  {
-    "codigo": "K100",
-    "ruta": "Albrook - Tocumen - 24 de Diciembre",
-    "horario": "5:30 AM - 11:00 PM"
-  },
-  {
-    "codigo": "M100",
-    "ruta": "Albrook - Ciudad del Saber - Howard",
-    "horario": "6:00 AM - 9:00 PM"
-  },
-  {
-    "codigo": "C100",
-    "ruta": "Albrook - Clayton - Veracruz",
-    "horario": "5:00 AM - 10:30 PM"
-  },
-  {
-    "codigo": "V100",
-    "ruta": "Albrook - Villa Lucre - Pedregal",
-    "horario": "5:15 AM - 10:00 PM"
-  },
-  {
-    "codigo": "S100",
-    "ruta": "San Miguelito - Vía Argentina - Vía Brasil",
-    "horario": "5:00 AM - 11:00 PM"
-  },
-  {
-    "codigo": "P100",
-    "ruta": "Panamá Viejo - Costa del Este - Brisas del Golf",
-    "horario": "6:00 AM - 9:30 PM"
-  },
-  {
-    "codigo": "L100",
-    "ruta": "Las Cumbres - Cerro Viento - Albrook",
-    "horario": "5:00 AM - 10:00 PM"
-  },
-  {
-    "codigo": "B100",
-    "ruta": "Bella Vista - Calidonia - Curundú",
-    "horario": "5:30 AM - 10:30 PM"
-  },
-  {
-    "codigo": "R100",
-    "ruta": "Río Abajo - Juan Díaz - Parque Lefevre",
-    "horario": "5:00 AM - 9:00 PM"
-  }
+  {"codigo": "T110", "ruta": "Albrook - Vía España - San Miguelito", "horario": "5:00 AM - 10:00 PM"},
+  {"codigo": "T111", "ruta": "Albrook - Vía España - San Miguelito - Felipillo", "horario": "5:00 AM - 10:00 PM"},
+  {"codigo": "T123", "ruta": "Albrook - Vía España - San Miguelito - Los Andes", "horario": "5:00 AM - 10:00 PM"},
+  {"codigo": "T125", "ruta": "Albrook - Vía España - San Miguelito - Villa Zaita", "horario": "5:00 AM - 10:00 PM"},
+  {"codigo": "T130", "ruta": "Albrook - Vía España - San Miguelito - Pacora", "horario": "5:00 AM - 10:00 PM"},
+  {"codigo": "T140", "ruta": "Albrook - Vía España - San Miguelito - Chepo", "horario": "5:00 AM - 10:00 PM"},
+  {"codigo": "T150", "ruta": "Albrook - Vía España - San Miguelito - 24 de Diciembre", "horario": "5:00 AM - 10:00 PM"},
+  {"codigo": "T160", "ruta": "Albrook - Vía España - San Miguelito - Tocumen", "horario": "5:00 AM - 10:00 PM"},
+  {"codigo": "T170", "ruta": "Albrook - Vía España - San Miguelito - La Cabima", "horario": "5:00 AM - 10:00 PM"},
+  {"codigo": "T180", "ruta": "Albrook - Vía España - San Miguelito - Cerro Viento", "horario": "5:00 AM - 10:00 PM"},
+  {"codigo": "T190", "ruta": "Albrook - Vía España - San Miguelito - Las Cumbres", "horario": "5:00 AM - 10:00 PM"},
+  {"codigo": "T210", "ruta": "Albrook - Vía Simón Bolívar - San Miguelito", "horario": "5:00 AM - 10:00 PM"},
+  {"codigo": "T220", "ruta": "Albrook - Vía Simón Bolívar - San Miguelito - Pacora", "horario": "5:00 AM - 10:00 PM"},
+  {"codigo": "T230", "ruta": "Albrook - Vía Simón Bolívar - San Miguelito - Chepo", "horario": "5:00 AM - 10:00 PM"},
+  {"codigo": "T240", "ruta": "Albrook - Vía Simón Bolívar - San Miguelito - 24 de Diciembre", "horario": "5:00 AM - 10:00 PM"},
+  {"codigo": "T250", "ruta": "Albrook - Vía Simón Bolívar - San Miguelito - Tocumen", "horario": "5:00 AM - 10:00 PM"},
+  {"codigo": "T260", "ruta": "Albrook - Vía Simón Bolívar - San Miguelito - La Cabima", "horario": "5:00 AM - 10:00 PM"},
+  {"codigo": "T270", "ruta": "Albrook - Vía Simón Bolívar - San Miguelito - Cerro Viento", "horario": "5:00 AM - 10:00 PM"},
+  {"codigo": "T280", "ruta": "Albrook - Vía Simón Bolívar - San Miguelito - Las Cumbres", "horario": "5:00 AM - 10:00 PM"},
+  {"codigo": "T310", "ruta": "Albrook - Vía Transístmica - San Miguelito", "horario": "5:00 AM - 10:00 PM"},
+  {"codigo": "T320", "ruta": "Albrook - Vía Transístmica - San Miguelito - Pacora", "horario": "5:00 AM - 10:00 PM"},
+  {"codigo": "T330", "ruta": "Albrook - Vía Transístmica - San Miguelito - Chepo", "horario": "5:00 AM - 10:00 PM"},
+  {"codigo": "T340", "ruta": "Albrook - Vía Transístmica - San Miguelito - 24 de Diciembre", "horario": "5:00 AM - 10:00 PM"},
+  {"codigo": "T350", "ruta": "Albrook - Vía Transístmica - San Miguelito - Tocumen", "horario": "5:00 AM - 10:00 PM"},
+  {"codigo": "T360", "ruta": "Albrook - Vía Transístmica - San Miguelito - La Cabima", "horario": "5:00 AM - 10:00 PM"},
+  {"codigo": "T370", "ruta": "Albrook - Vía Transístmica - San Miguelito - Cerro Viento", "horario": "5:00 AM - 10:00 PM"},
+  {"codigo": "T380", "ruta": "Albrook - Vía Transístmica - San Miguelito - Las Cumbres", "horario": "5:00 AM - 10:00 PM"},
+  {"codigo": "T410", "ruta": "Albrook - Vía Centenario - San Miguelito", "horario": "5:00 AM - 10:00 PM"},
+  {"codigo": "T420", "ruta": "Albrook - Vía Centenario - San Miguelito - Pacora", "horario": "5:00 AM - 10:00 PM"},
+  {"codigo": "T430", "ruta": "Albrook - Vía Centenario - San Miguelito - Chepo", "horario": "5:00 AM - 10:00 PM"},
+  {"codigo": "T440", "ruta": "Albrook - Vía Centenario - San Miguelito - 24 de Diciembre", "horario": "5:00 AM - 10:00 PM"},
+  {"codigo": "T450", "ruta": "Albrook - Vía Centenario - San Miguelito - Tocumen", "horario": "5:00 AM - 10:00 PM"},
+  {"codigo": "T460", "ruta": "Albrook - Vía Centenario - San Miguelito - La Cabima", "horario": "5:00 AM - 10:00 PM"},
+  {"codigo": "T470", "ruta": "Albrook - Vía Centenario - San Miguelito - Cerro Viento", "horario": "5:00 AM - 10:00 PM"},
+  {"codigo": "T480", "ruta": "Albrook - Vía Centenario - San Miguelito - Las Cumbres", "horario": "5:00 AM - 10:00 PM"},
+  {"codigo": "K100", "ruta": "Albrook - Calidonia - San Francisco", "horario": "5:00 AM - 10:00 PM"},
+  {"codigo": "K110", "ruta": "Albrook - Calidonia - San Francisco - Bethania", "horario": "5:00 AM - 10:00 PM"},
+  {"codigo": "K120", "ruta": "Albrook - Calidonia - San Francisco - Punta Pacífica", "horario": "5:00 AM - 10:00 PM"},
+  {"codigo": "K130", "ruta": "Albrook - Calidonia - San Francisco - Costa del Este", "horario": "5:00 AM - 10:00 PM"},
+  {"codigo": "K140", "ruta": "Albrook - Calidonia - San Francisco - Parque Lefevre", "horario": "5:00 AM - 10:00 PM"},
+  {"codigo": "K150", "ruta": "Albrook - Calidonia - San Francisco - Río Abajo", "horario": "5:00 AM - 10:00 PM"},
+  {"codigo": "K160", "ruta": "Albrook - Calidonia - San Francisco - Juan Díaz", "horario": "5:00 AM - 10:00 PM"},
+  {"codigo": "K170", "ruta": "Albrook - Calidonia - San Francisco - Las Mañanitas", "horario": "5:00 AM - 10:00 PM"},
+  {"codigo": "K180", "ruta": "Albrook - Calidonia - San Francisco - Pedregal", "horario": "5:00 AM - 10:00 PM"},
+  {"codigo": "K190", "ruta": "Albrook - Calidonia - San Francisco - Tocumen", "horario": "5:00 AM - 10:00 PM"},
+  {"codigo": "K200", "ruta": "Albrook - Calidonia - San Francisco - Las Cumbres", "horario": "5:00 AM - 10:00 PM"},
+  {"codigo": "K210", "ruta": "Albrook - Calidonia - San Francisco - Cerro Viento", "horario": "5:00 AM - 10:00 PM"},
+  {"codigo": "K220", "ruta": "Albrook - Calidonia - San Francisco - La Cabima", "horario": "5:00 AM - 10:00 PM"},
+  {"codigo": "K230", "ruta": "Albrook - Calidonia - San Francisco - 24 de Diciembre", "horario": "5:00 AM - 10:00 PM"},
+  {"codigo": "K240", "ruta": "Albrook - Calidonia - San Francisco - Chepo", "horario": "5:00 AM - 10:00 PM"},
+  {"codigo": "K250", "ruta": "Albrook - Calidonia - San Francisco - Pacora", "horario": "5:00 AM - 10:00 PM"},
+  {"codigo": "K260", "ruta": "Albrook - Calidonia - San Francisco - Villa Zaita", "horario": "5:00 AM - 10:00 PM"},
+  {"codigo": "K270", "ruta": "Albrook - Calidonia - San Francisco - Los Andes", "horario": "5:00 AM - 10:00 PM"},
+  {"codigo": "K280", "ruta": "Albrook - Calidonia - San Francisco - Felipillo", "horario": "5:00 AM - 10:00 PM"},
+  {"codigo": "K290", "ruta": "Albrook - Calidonia - San Francisco - San Miguelito", "horario": "5:00 AM - 10:00 PM"},
+  {"codigo": "M100", "ruta": "Albrook - Ancón - Balboa", "horario": "5:00 AM - 10:00 PM"},
+  {"codigo": "M110", "ruta": "Albrook - Ancón - Balboa - Veracruz", "horario": "5:00 AM - 10:00 PM"},
+  {"codigo": "M120", "ruta": "Albrook - Ancón - Balboa - Howard", "horario": "5:00 AM - 10:00 PM"},
+  {"codigo": "M130", "ruta": "Albrook - Ancón - Balboa - Arraiján", "horario": "5:00 AM - 10:00 PM"},
+  {"codigo": "M140", "ruta": "Albrook - Ancón - Balboa - La Chorrera", "horario": "5:00 AM - 10:00 PM"},
+  {"codigo": "M150", "ruta": "Albrook - Ancón - Balboa - Capira", "horario": "5:00 AM - 10:00 PM"},
+  {"codigo": "M160", "ruta": "Albrook - Ancón - Balboa - Chame", "horario": "5:00 AM - 10:00 PM"},
+  {"codigo": "M170", "ruta": "Albrook - Ancón - Balboa - San Carlos", "horario": "5:00 AM - 10:00 PM"},
+  {"codigo": "M180", "ruta": "Albrook - Ancón - Balboa - Punta Chame", "horario": "5:00 AM - 10:00 PM"},
+  {"codigo": "M190", "ruta": "Albrook - Ancón - Balboa - Playa Bonita", "horario": "5:00 AM - 10:00 PM"},
+  {"codigo": "M200", "ruta": "Albrook - Ancón - Balboa - Vacamonte", "horario": "5:00 AM - 10:00 PM"},
+  {"codigo": "M210", "ruta": "Albrook - Ancón - Balboa - Puerto Caimito", "horario": "5:00 AM - 10:00 PM"},
+  {"codigo": "M220", "ruta": "Albrook - Ancón - Balboa - Arraiján Cabecera", "horario": "5:00 AM - 10:00 PM"},
+  {"codigo": "M230", "ruta": "Albrook - Ancón - Balboa - Vista Alegre", "horario": "5:00 AM - 10:00 PM"},
+  {"codigo": "M240", "ruta": "Albrook - Ancón - Balboa - Burunga", "horario": "5:00 AM - 10:00 PM"},
+  {"codigo": "M250", "ruta": "Albrook - Ancón - Balboa - Cerro Silvestre", "horario": "5:00 AM - 10:00 PM"},
+  {"codigo": "M260", "ruta": "Albrook - Ancón - Balboa - Nuevo Emperador", "horario": "5:00 AM - 10:00 PM"},
+  {"codigo": "M270", "ruta": "Albrook - Ancón - Balboa - La Herradura", "horario": "5:00 AM - 10:00 PM"},
+  {"codigo": "M280", "ruta": "Albrook - Ancón - Balboa - Las Colinas", "horario": "5:00 AM - 10:00 PM"},
+  {"codigo": "M290", "ruta": "Albrook - Ancón - Balboa - Santa Rita", "horario": "5:00 AM - 10:00 PM"},
+  {"codigo": "M300", "ruta": "Albrook - Ancón - Balboa - Nuevo Arraiján", "horario": "5:00 AM - 10:00 PM"}
+
 ]
